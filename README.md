@@ -9,4 +9,3 @@
 
 
 -[linkedin](https://www.linkedin.com/in/leandro-roca-93a093271)
-### *Me gusta y me interesa programar, principalmente orientado a los videojuegos*    
